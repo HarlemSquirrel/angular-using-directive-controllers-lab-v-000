@@ -26,6 +26,7 @@ function ContactCard() {
 	};
 }
 
+
 angular
 	.module('app')
 	.directive('contactCard', ContactCard);
